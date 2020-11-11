@@ -1,4 +1,4 @@
-import 'package:sip_ruedaz/domain/model/user.dart';
+import 'package:sip_ruedaz/domain/model/User.dart';
 import 'package:sip_ruedaz/domain/request/login_request.dart';
 import 'package:sip_ruedaz/domain/response/login_response.dart';
 

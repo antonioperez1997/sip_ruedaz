@@ -1,7 +1,7 @@
 import 'package:get/route_manager.dart';
-import 'package:sip_ruedaz/ui/pages/homePage/homePage.dart';
-import 'package:sip_ruedaz/ui/pages/loginPage/loginPage.dart';
-import 'package:sip_ruedaz/ui/pages/splashPage/splashPage.dart';
+import 'package:sip_ruedaz/ui/pages/homePage/HomePage.dart';
+import 'package:sip_ruedaz/ui/pages/loginPage/LoginPage.dart';
+import 'package:sip_ruedaz/ui/pages/splashPage/SplashPage.dart';
 
 class Routes {
   static final String splash = "/splash";

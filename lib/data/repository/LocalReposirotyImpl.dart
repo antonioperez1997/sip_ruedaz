@@ -1,4 +1,4 @@
-import 'package:sip_ruedaz/domain/repository/local_storage_repository.dart';
+import 'package:sip_ruedaz/domain/repository/LocalStorageRepository.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 const _pref_dark_theme = "THEME_DARK";

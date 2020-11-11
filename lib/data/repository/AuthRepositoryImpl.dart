@@ -1,6 +1,6 @@
-import 'package:sip_ruedaz/domain/exceptions/auth_exceptions.dart';
-import 'package:sip_ruedaz/domain/model/user.dart';
-import 'package:sip_ruedaz/domain/repository/auth_repository.dart';
+import 'package:sip_ruedaz/domain/exceptions/AuthExceptions.dart';
+import 'package:sip_ruedaz/domain/model/User.dart';
+import 'package:sip_ruedaz/domain/repository/AuthRepository.dart';
 import 'package:sip_ruedaz/domain/response/login_response.dart';
 import 'package:sip_ruedaz/domain/request/login_request.dart';
 

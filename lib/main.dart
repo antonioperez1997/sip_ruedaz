@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 
 import 'package:get/route_manager.dart';
-import 'package:sip_ruedaz/ui/main_binfing.dart';
+import 'package:sip_ruedaz/ui/MainBinding.dart';
 
-import 'ui/routes/routes.dart';
+import 'ui/routes/Routes.dart';
 
 void main() => runApp(MyApp());
 

@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:sip_ruedaz/domain/model/data.dart';
+import 'package:sip_ruedaz/domain/model/Data.dart';
 
 UserBeParkingModel userBeParkingModelFromJson(String str) =>
     UserBeParkingModel.fromJson(json.decode(str));

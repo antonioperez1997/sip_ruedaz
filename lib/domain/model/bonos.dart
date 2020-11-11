@@ -1,4 +1,4 @@
-import 'package:sip_ruedaz/domain/model/bonus.dart';
+import 'package:sip_ruedaz/domain/model/Bonus.dart';
 
 class Bonos {
   List<Bono> items = new List();
